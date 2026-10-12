@@ -1,0 +1,12 @@
+config.json
+gesehen*.json
+referenz*.json
+geo_cache.json
+route.json
+last_run.txt
+logs/
+berichte/
+__pycache__/
+*_backup*
+schnaeppchen_dev.py
+browser_profile/
